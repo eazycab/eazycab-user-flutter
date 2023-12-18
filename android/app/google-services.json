@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427751715593",
+    "project_id": "eazycab-2cd88",
+    "storage_bucket": "eazycab-2cd88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427751715593:android:dff4052b7ca885bd5e99d8",
+        "android_client_info": {
+          "package_name": "au.eazycab.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfeo3dKdhJ_4qaj63RtR3XDMseYram9ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
